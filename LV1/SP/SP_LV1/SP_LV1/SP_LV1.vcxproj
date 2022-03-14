@@ -18,6 +18,17 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="filecreator.c" />
+    <ClCompile Include="UW1.c" />
+    <ClCompile Include="UW2.c" />
+    <ClCompile Include="W1.c" />
+    <ClCompile Include="W2.c" />
+    <ClCompile Include="W3.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="TODO.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -138,17 +149,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\654163541\filecreator.c" />
-    <ClCompile Include="..\..\..\654163541\UW1.c" />
-    <ClCompile Include="..\..\..\654163541\UW2.c" />
-    <ClCompile Include="..\..\..\654163541\W1.c" />
-    <ClCompile Include="..\..\..\654163541\W2.c" />
-    <ClCompile Include="..\..\..\654163541\W3.c" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\..\654163541\TODO" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

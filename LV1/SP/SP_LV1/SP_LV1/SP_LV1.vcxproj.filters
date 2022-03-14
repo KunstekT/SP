@@ -15,28 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\654163541\UW2.c">
+    <ClCompile Include="UW1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\654163541\W1.c">
+    <ClCompile Include="UW2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\654163541\W2.c">
+    <ClCompile Include="W1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\654163541\W3.c">
+    <ClCompile Include="W2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\654163541\filecreator.c">
+    <ClCompile Include="W3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\654163541\UW1.c">
+    <ClCompile Include="filecreator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\654163541\TODO">
+    <Text Include="TODO.txt">
       <Filter>Source Files</Filter>
-    </None>
+    </Text>
   </ItemGroup>
 </Project>
